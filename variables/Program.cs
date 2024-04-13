@@ -7,14 +7,14 @@ int numero = 10;
 
 //variables de cadenas de texto
 
-string cadena = 'Hola mundo';
+string cadena = "Hola";
 
 //Linea de escritura
 
-Console.WriteLine($"Valor numerico: {numero} \n Cadenas de texto: {cadena}");
+Console.WriteLine($"Valor numerico: {numero} \nCadenas de texto: {cadena}");
 
 //Linea de lectura
-Console.ReaLine( );
+Console.ReadLine();
 
 
 
