@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays.csproj", "{AE146EBE-99EB-4253-BF95-8FFCE1B70314}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{B45D6A23-F9F9-4CC1-9E4B-C426C021D5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE146EBE-99EB-4253-BF95-8FFCE1B70314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE146EBE-99EB-4253-BF95-8FFCE1B70314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE146EBE-99EB-4253-BF95-8FFCE1B70314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE146EBE-99EB-4253-BF95-8FFCE1B70314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A39AB15-180A-4852-A23A-0768FFBBD691}
+	EndGlobalSection
+EndGlobal
